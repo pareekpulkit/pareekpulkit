@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pareekpulkit
-- 👀 I’m interested in Data Science, Healthcare IT and Finance
+- 👀 I’m interested in Data Science, NLP
 - 🌱 I’m currently learning Deep Learning and NLP
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me pareekpulkit2210@gmail.com
